@@ -8,7 +8,6 @@
 
 (3) Search Movies: Search Movies, implemented using Movie database API.
 
-You can see /project_report.pdf for details.
 
 The core codes are in lambda-function and fronend code in index.html and html2
 
