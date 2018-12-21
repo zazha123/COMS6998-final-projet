@@ -2,7 +2,7 @@
 
 - AWS based serverless Movie Review website, Columbia University COMS6998 Cloud Computing and Big Data final project
 
-(1) Movie Recommendation Chatbot: Built a chatbot with Lex, ask and gather user data. Make recommendation cinima using gathered. 
+(1) Movie Recommendation Chatbot: Built a chatbot with Lex, ask and gather user data. Make recommendation cinima using data gathered. 
 
 (2) Review System: Users submit text review, AWS Comprehend do sentiment analysis and translate the text review using AWS translate.
 
